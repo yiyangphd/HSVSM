@@ -1,0 +1,16 @@
+Package: HSVSM
+Title: Bayesian Hierarchical Models for Multi-Variant and Multi-Trait Genome-Wide Association Studies
+Version: 1.0.0
+Authors@R: 
+    person(given = "Yi",
+           family = "Yang",
+           role = c("aut", "cre"),
+           email = "yang4723@umn.edu",
+           comment = c(ORCID = "0000-0002-1471-4026"))
+Description: Identification of causal loci in genome-wide association studies.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: tmvn, statmod
+Remotes: suchitm/tmvn
